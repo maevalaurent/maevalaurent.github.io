@@ -11,7 +11,7 @@ translate(250, 250);
 	stroke(233,140,143);
 	line(0,0,rayon,0);
 	var rayon = random(200);
-rotate(radians(frameCoun/0.78));
+rotate(radians(frameCount/0.78));
 	line(0,0,rayon,0);
 	//	rect(0, 0, 300, 1);
 		pop();
